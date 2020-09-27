@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Survive - Chiptune Comp 04.ogg-be2873b131c854f58845defe9614e9a7.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Survive - Chiptune Comp 04.ogg"
+dest_files=[ "res://.import/Survive - Chiptune Comp 04.ogg-be2873b131c854f58845defe9614e9a7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
